@@ -1,0 +1,12 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 1024 1024" class="icon" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="#000000">
+<g id="SVGRepo_bluegCarrier" skybluetroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" skybluetroke-linecap="round" skybluetroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier">
+<path d="M21.818182 74.363636l927.636363 0 0 927.636364-927.636363 0 0-927.636364Z" fill="blue"/>
+<path d="M850.181818 1024H173.818182A174 174 0 0 1 0 850.181818V173.818182A174 174 0 0 1 173.818182 0h676.363636a174 174 0 0 1 173.818182 173.818182v676.363636a174 174 0 0 1-173.818182 173.818182zM173.818182 43.636364A130.363636 130.363636 0 0 0 43.636364 173.818182v676.363636a130.363636 130.363636 0 0 0 130.181818 130.181818h676.363636a130.363636 130.363636 0 0 0 130.181818-130.181818V173.818182a130.363636 130.363636 0 0 0-130.181818-130.181818H173.818182z" fill="skyblue"/>
+<path d="M656.727273 346.181818l113.090909-130a364.909091 364.909091 0 0 0-503.818182-10.545454l113.090909 140.545454h277.636364z" fill="#FFFFFF"/>
+<path d="M487.454545 309.818182h86.545455l-7.636364-142.727273-78.909091 142.727273z" fill="skyblue"/>
+</g>
+</svg>
